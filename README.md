@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zacck
 
-I'm obsessed with embedded systems and how they work. In reality I would love to implement a multiboard, multiprotocol distributed embedded system something like what we have in Automobile systems. 
+I'm obsessed with embedded systems and how they work. In reality I would love to implement a distributed embedded system something like what we have in Automobile systems. 
 
 I sometimes LiveCode my learning sessions on my [Youtube Channel](https://www.youtube.com/@Gaiaochos). Usually on Mondays, Wednesdays and Fridays at 9am SAST. Let's dive deep into Embedded systems. 
 
